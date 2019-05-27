@@ -1,0 +1,19 @@
+{
+  "name": "kata-pencil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --recursive"
+  },
+  "author": "Bradley (Cole) Barnett",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "sinon": "^7.2.3"
+  },
+  "dependencies": {
+    "is-whitespace-character": "^1.0.2"
+  }
+}
