@@ -10,7 +10,7 @@
   "author": "Bradley (Cole) Barnett",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "sinon": "^7.2.3"
   },
   "dependencies": {
